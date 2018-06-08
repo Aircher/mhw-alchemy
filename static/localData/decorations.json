@@ -1,0 +1,411 @@
+{
+	"decorations": [{
+		"value": 1,
+		"text": "耐毒珠",
+		"level": "5"
+	},{
+		"value": 2,
+		"text": "耐麻珠",
+		"level": "5"
+	},{
+		"value": 3,
+		"text": "耐眠珠",
+		"level": "5"
+	},{
+		"value": 4,
+		"text": "耐爆珠",
+		"level": "5"
+	},{
+		"value": 5,
+		"text": "耐裂珠",
+		"level": "5"
+	},{
+		"value": 6,
+		"text": "耐防珠",
+		"level": "5"
+	},{
+		"value": 7,
+		"text": "耐火珠",
+		"level": "5"
+	},{
+		"value": 8,
+		"text": "耐水珠",
+		"level": "5"
+	},{
+		"value": 9,
+		"text": "耐冰珠",
+		"level": "5"
+	},{
+		"value": 10,
+		"text": "耐雷珠",
+		"level": "5"
+	},{
+		"value": 11,
+		"text": "耐龙珠",
+		"level": "5"
+	},{
+		"value": 12,
+		"text": "逆境珠",
+		"level": "5"
+	},{
+		"value": 13,
+		"text": "炮手珠",
+		"level": "5"
+	},{
+		"value": 14,
+		"text": "无食珠",
+		"level": "5"
+	},{
+		"value": 15,
+		"text": "节食珠",
+		"level": "5"
+	},{
+		"value": 16,
+		"text": "加护珠",
+		"level": "5"
+	},{
+		"value": 17,
+		"text": "指示珠",
+		"level": "5"
+	},{
+		"value": 18,
+		"text": "植学珠",
+		"level": "5"
+	},{
+		"value": 19,
+		"text": "地学珠",
+		"level": "5"
+	},{
+		"value": 20,
+		"text": "潜伏珠",
+		"level": "5"
+	},{
+		"value": 21,
+		"text": "烟复珠",
+		"level": "5"
+	},{
+		"value": 22,
+		"text": "沼渡珠",
+		"level": "5"
+	},{
+		"value": 23,
+		"text": "标本珠",
+		"level": "5"
+	},{
+		"value": 24,
+		"text": "嗅觉珠",
+		"level": "5"
+	},{
+		"value": 25,
+		"text": "威胁珠",
+		"level": "5"
+	},{
+		"value": 26,
+		"text": "绝路珠",
+		"level": "5"
+	},{
+		"value": 27,
+		"text": "标本珠",
+		"level": "5"
+	},{
+		"value": 28,
+		"text": "嗅觉珠",
+		"level": "5"
+	},{
+		"value": 29,
+		"text": "威胁珠",
+		"level": "5"
+	},{
+		"value": 30,
+		"text": "绝路珠",
+		"level": "5"
+	},{
+		"value": 31,
+		"text": "整备珠",
+		"level": "5"
+	},{
+		"value": 32,
+		"text": "耐瘴珠",
+		"level": "5"
+	},{
+		"value": 33,
+		"text": "飞燕珠",
+		"level": "5"
+	},{
+		"value": 34,
+		"text": "耐绝珠",
+		"level": "6"
+	},{
+		"value": 35,
+		"text": "防御珠",
+		"level": "6"
+	},{
+		"value": 36,
+		"text": "体力珠",
+		"level": "6"
+	},{
+		"value": 37,
+		"text": "早复珠",
+		"level": "6"
+	},{
+		"value": 38,
+		"text": "耐属珠",
+		"level": "6"
+	},{
+		"value": 39,
+		"text": "火炎珠",
+		"level": "6"
+	},{
+		"value": 40,
+		"text": "流水珠",
+		"level": "6"
+	},{
+		"value": 41,
+		"text": "冰结珠",
+		"level": "6"
+	},{
+		"value": 42,
+		"text": "雷光珠",
+		"level": "6"
+	},{
+		"value": 43,
+		"text": "破龙珠",
+		"level": "6"
+	},{
+		"value": 44,
+		"text": "毒珠",
+		"level": "6"
+	},{
+		"value": 45,
+		"text": "达人珠",
+		"level": "6"
+	},{
+		"value": 46,
+		"text": "夺气珠",
+		"level": "6"
+	},{
+		"value": 47,
+		"text": "鼓笛珠",
+		"level": "6"
+	},{
+		"value": 48,
+		"text": "速纳珠",
+		"level": "6"
+	},{
+		"value": 49,
+		"text": "友爱珠",
+		"level": "6"
+	},{
+		"value": 50,
+		"text": "持续珠",
+		"level": "6"
+	},{
+		"value": 51,
+		"text": "快吃珠",
+		"level": "6"
+	},{
+		"value": 52,
+		"text": "研磨珠",
+		"level": "6"
+	},{
+		"value": 53,
+		"text": "爆师珠",
+		"level": "6"
+	},{
+		"value": 54,
+		"text": "投石珠",
+		"level": "6"
+	},{
+		"value": 55,
+		"text": "治愈珠",
+		"level": "6"
+	},{
+		"value": 56,
+		"text": "防风珠",
+		"level": "6"
+	},{
+		"value": 57,
+		"text": "耐震珠",
+		"level": "6"
+	},{
+		"value": 58,
+		"text": "痛击珠",
+		"level": "6"
+	},{
+		"value": 59,
+		"text": "重击珠",
+		"level": "6"
+	},{
+		"value": 60,
+		"text": "KO珠",
+		"level": "6"
+	},{
+		"value": 61,
+		"text": "体术珠",
+		"level": "6"
+	},{
+		"value": 62,
+		"text": "回避珠",
+		"level": "6"
+	},{
+		"value": 63,
+		"text": "跳跃珠",
+		"level": "6"
+	},{
+		"value": 64,
+		"text": "滑走珠",
+		"level": "6"
+	},{
+		"value": 65,
+		"text": "无击珠",
+		"level": "6"
+	},{
+		"value": 66,
+		"text": "防音珠",
+		"level": "6"
+	},{
+		"value": 67,
+		"text": "毒瓶珠",
+		"level": "6"
+	},{
+		"value": 68,
+		"text": "耐冲珠",
+		"level": "6"
+	},{
+		"value": 69,
+		"text": "攻击珠",
+		"level": "7"
+	},{
+		"value": 70,
+		"text": "麻痹珠",
+		"level": "7"
+	},{
+		"value": 71,
+		"text": "睡眠珠",
+		"level": "7"
+	},{
+		"value": 72,
+		"text": "爆破珠",
+		"level": "7"
+	},{
+		"value": 73,
+		"text": "特射珠",
+		"level": "7"
+	},{
+		"value": 74,
+		"text": "铁壁珠",
+		"level": "7"
+	},{
+		"value": 75,
+		"text": "全开珠",
+		"level": "7"
+	},{
+		"value": 76,
+		"text": "挑战珠",
+		"level": "7"
+	},{
+		"value": 77,
+		"text": "无伤珠",
+		"level": "7"
+	},{
+		"value": 78,
+		"text": "底力珠",
+		"level": "7"
+	},{
+		"value": 79,
+		"text": "逆上珠",
+		"level": "7"
+	},{
+		"value": 80,
+		"text": "增弹珠",
+		"level": "7"
+	},{
+		"value": 81,
+		"text": "早气珠",
+		"level": "7"
+	},{
+		"value": 82,
+		"text": "浑身珠",
+		"level": "7"
+	},{
+		"value": 83,
+		"text": "昂扬珠",
+		"level": "7"
+	},{
+		"value": 84,
+		"text": "强壁珠",
+		"level": "7"
+	},{
+		"value": 85,
+		"text": "刚刃珠",
+		"level": "7"
+	},{
+		"value": 86,
+		"text": "痹瓶珠",
+		"level": "7"
+	},{
+		"value": 87,
+		"text": "眠瓶珠",
+		"level": "7"
+	},{
+		"value": 88,
+		"text": "爆瓶珠",
+		"level": "7"
+	},{
+		"value": 89,
+		"text": "强弹珠",
+		"level": "7"
+	},{
+		"value": 90,
+		"text": "龙封珠",
+		"level": "7"
+	},{
+		"value": 91,
+		"text": "炮术珠",
+		"level": "8"
+	},{
+		"value": 92,
+		"text": "茸好珠",
+		"level": "8"
+	},{
+		"value": 93,
+		"text": "超心珠",
+		"level": "8"
+	},{
+		"value": 94,
+		"text": "缩短珠",
+		"level": "8"
+	},{
+		"value": 95,
+		"text": "拔刀珠",
+		"level": "8"
+	},{
+		"value": 96,
+		"text": "强走珠",
+		"level": "8"
+	},{
+		"value": 97,
+		"text": "强弓珠",
+		"level": "8"
+	},{
+		"value": 98,
+		"text": "心眼珠",
+		"level": "8"
+	},{
+		"value": 99,
+		"text": "解放珠",
+		"level": "8"
+	},{
+		"value": 100,
+		"text": "匠珠",
+		"level": "8"
+	},{
+		"value": 101,
+		"text": "贯通珠",
+		"level": "8"
+	},{
+		"value": 102,
+		"text": "散弹珠",
+		"level": "8"
+	}]
+}
